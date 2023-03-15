@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+build/
+.kotlin/
+package-lock.json
+*.js.map
